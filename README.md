@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Satstreet as Frontend developer (Vue3, Ts).
+- 🔭 I’m currently working on Satstreet as Frontend developer (Vue3, Ts) and personal projects on my free time (React, Vue3, Express, ChatBots).
 - 🌱 I'm currently learning Python in a program of 100 days of learning.
 - 👯 I’m looking to collaborate on with anyone interesting in develop helpful tools to make our life easier.
 - 🤔 I’m looking for help with machine learning because i really into that.
