@@ -1,14 +1,12 @@
-### Hi there 👋
+## 👋 Hi there! I'm Mauricio Loya,
 
+I'm a passionate IT engineer and web developer with over 6 years of experience in creating innovative solutions. Throughout my career, I've had the chance to work on exciting projects, like developing platforms for high-demand financial transactions and optimizing key services to improve user experience. I love tackling new challenges and always strive to add value to every project I work on.
 
-**MauricioLoya/MauricioLoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work with a wide range of technologies, including JavaScript, TypeScript, PHP, Java, Vue.js, React, and Node.js. My focus is on creating robust and scalable applications with interfaces that not only work well but also look great.
 
-Here are some ideas to get you started:
+When I'm not coding, I enjoy listening to and creating music, taking care of my plants, and appreciating all forms of art. I also spend time on personal projects that allow me to keep learning and experimenting with new technologies. My goal is to continue collaborating with creative teams to develop products that make a difference.
 
-- 🔭 I’m currently working on Satstreet as Frontend developer (Vue3, Ts) and personal projects on my free time (React, Vue3, Express, ChatBots).
-- 🌱 I'm currently learning Python in a program of 100 days of learning.
-- 👯 I’m looking to collaborate on with anyone interesting in develop helpful tools to make our life easier.
-- 🤔 I’m looking for help with machine learning because i really into that.
-- 💬 Ask me about my dog, interesting facts about javascript and what do you think is the future of software
-- 📫 How to reach me: mauloy15@gmail.com
-- ⚡ Fun fact: I think my profile photo is too much professional.
+If you're interested in learning more about my work or collaborating on a project, feel free to reach out!
+
+🌐 [mauricioloya.com](https://mauricioloya.com)  
+📧 mauloy15@gmail.com
