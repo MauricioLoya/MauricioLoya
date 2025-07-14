@@ -1,12 +1,7 @@
-## 👋 Hi there! I'm Mauricio Loya,
+Software Engineer with 6+ years of experience creating innovative SaaS solutions and MVPs for companies of all sizes.
 
-I'm a passionate IT engineer and web developer with over 6 years of experience in creating innovative solutions. Throughout my career, I've had the chance to work on exciting projects, like developing platforms for high-demand financial transactions and optimizing key services to improve user experience. I love tackling new challenges and always strive to add value to every project I work on.
+I believe "We shape our buildings; thereafter they shape us" – that's why I focus on understanding the context where software will be used, conducting thorough research to deliver solutions that truly fit user needs and business goals. Experience developing high-demand financial platforms and optimizing services to improve user experience.
 
-I work with a wide range of technologies, including JavaScript, TypeScript, PHP, Java, Vue.js, React, and Node.js. My focus is on creating robust and scalable applications with interfaces that not only work well but also look great.
+Passionate about transforming ideas into scalable products that make a real difference. Always learning through personal projects and exploring new technologies.
 
-When I'm not coding, I enjoy listening to and creating music, taking care of my plants, and appreciating all forms of art. I also spend time on personal projects that allow me to keep learning and experimenting with new technologies. My goal is to continue collaborating with creative teams to develop products that make a difference.
-
-If you're interested in learning more about my work or collaborating on a project, feel free to reach out!
-
-🌐 [mauricioloya.com](https://mauricioloya.com)  
-📧 mauloy15@gmail.com
+Available for remote development projects and technical consulting. Let's connect!
